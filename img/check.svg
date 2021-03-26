@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_42" data-name="Прямоугольник 42" width="30" height="30" rx="7" transform="translate(453 665)" fill="#becbd8" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_5" data-name="Группа масок 5" transform="translate(-453 -665)" clip-path="url(#clip-path)">
+    <g id="Прямоугольник_43" data-name="Прямоугольник 43" transform="translate(453 665)" fill="#f3f9ff" stroke="#2616a2" stroke-width="1">
+      <rect width="30" height="30" rx="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="6.5" fill="none"/>
+    </g>
+  </g>
+</svg>

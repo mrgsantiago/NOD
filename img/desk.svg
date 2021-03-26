@@ -1,0 +1,21 @@
+<svg id="desk" xmlns="http://www.w3.org/2000/svg" width="902" height="619" viewBox="0 0 902 619">
+  <g id="Сгруппировать_5" data-name="Сгруппировать 5" transform="translate(-0.298 -0.207)">
+    <g id="Прямоугольник_5" data-name="Прямоугольник 5" transform="translate(0.298 0.207)" fill="none" stroke="#f2faff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <rect width="902" height="619" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="900" height="617" rx="9" fill="none"/>
+    </g>
+    <line id="Линия_5" data-name="Линия 5" x2="900.763" transform="translate(0.553 44.215)" fill="none" stroke="#f2faff" stroke-width="3"/>
+  </g>
+  <g id="Эллипс_1" data-name="Эллипс 1" transform="translate(19 16)" fill="#f2faff" stroke="#707070" stroke-width="1">
+    <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+    <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+  </g>
+  <g id="Эллипс_2" data-name="Эллипс 2" transform="translate(41 16)" fill="#f2faff" stroke="#707070" stroke-width="1">
+    <ellipse cx="7" cy="6.5" rx="7" ry="6.5" stroke="none"/>
+    <ellipse cx="7" cy="6.5" rx="6.5" ry="6" fill="none"/>
+  </g>
+  <g id="Эллипс_3" data-name="Эллипс 3" transform="translate(64 16)" fill="#f2faff" stroke="#707070" stroke-width="1">
+    <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+    <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+  </g>
+</svg>

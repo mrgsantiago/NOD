@@ -1,0 +1,31 @@
+<svg id="mouse" xmlns="http://www.w3.org/2000/svg" width="43" height="63" viewBox="0 0 43 63">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Прямоугольник_3" data-name="Прямоугольник 3" class="cls-1">
+    <rect class="cls-4" width="43" height="63" rx="21.5"/>
+    <rect class="cls-5" x="1" y="1" width="41" height="61" rx="20.5"/>
+  </g>
+  <rect id="Прямоугольник_4" data-name="Прямоугольник 4" class="cls-2" width="6" height="11" rx="3" transform="translate(19 13)"/>
+  <line id="Линия_4" data-name="Линия 4" class="cls-3" y2="13.204" transform="translate(21.828 0.394)"/>
+</svg>
